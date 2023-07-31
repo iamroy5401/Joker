@@ -1,0 +1,30 @@
+#bg {
+    background-size: 1535px 800px;
+}
+
+#jo {
+    font-family: Arial;
+    font-size: 2.5em;
+    color: rgb(241, 249, 5);
+}
+
+
+.key {
+    border-radius: 8px;
+    background-color: #4CAF50;
+    border: none;
+    color: white;
+    padding: 30px 250px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 30px;
+    font-style: oblique;
+    font-weight: bold;
+    margin: 4px 2px;
+    cursor: pointer;
+
+    position: absolute;
+    left: 500px;
+    top: 150px;
+}
